@@ -1,6 +1,6 @@
-# app_gallery
+# App Gallery
 
-A new Flutter project.
+App feito em Flutter
 
 ## Getting Started
 
